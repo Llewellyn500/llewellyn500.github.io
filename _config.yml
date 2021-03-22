@@ -2,35 +2,15 @@ title: Llewellyn Adonteng Paintsil
 
 author: llewellyn Adonteng Paintsil
 
-social-network-links:
+
   email: "llewellynPaintsil34@gmail.com"
-  facebook: Llewellyn Paintsil
-  github: Llewellyn500
-  twitter: LlewellynAdont1
-  youtube: c/LPTeach
-  linkedin: Llewellyn Paintsil
-  instagram: llewellynpaintsil
+  facebook_username: Llewellyn Paintsil
+  github_username: Llewellyn500
+  twitter_username: LlewellynAdont1
+  youtube_username: c/LPTeach
+  linkedin_username: Llewellyn Paintsil
+  instagram_username: llewellynpaintsil
 
 rss-description: This website is a virtual proof that I'm awesome
-
-share-links-active:
-  twitter: true
-  youtube: true
-  instagram: true
-  facebook: true
-  linkedin: true
-  github: true
-  vk: false
-
-url-pretty: "llewellyn500.github.io"
-
-defaults:
-  -
-    scope:
-      path: "/" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
-      social-share: true
-
 
 theme: jekyll-theme-merlot
