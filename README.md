@@ -6,7 +6,7 @@ Here you will find links to all the projects I have worked on so far. If you are
 
 This is my current portfolio I am using 
 
-![Portfolio](/images/portfolio)
+![Portfolio](./portfolio.png)
 
 **Sorce Code:** [https://github.com/Llewellyn500/portfolio](https://github.com/Llewellyn500/portfolio)
 
