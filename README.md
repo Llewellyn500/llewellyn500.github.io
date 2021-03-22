@@ -12,7 +12,7 @@ This is my current portfolio I am using
 
 **Link** [https://llewellyn500.github.io/portfolio/](https://llewellyn500.github.io/portfolio/)
 
-</ br>
+</br>
 
 ## Portfolio V1
 
@@ -22,7 +22,7 @@ This was my 1st attempt to make a portfolio
 
 **Source Code:** [https://github.com/Llewellyn500/my-portfolio-V1](https://github.com/Llewellyn500/my-portfolio-V1)
 
-</ br>
+</br>
 
 ```markdown
 Syntax highlighted code block
