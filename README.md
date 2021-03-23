@@ -18,7 +18,7 @@ This is my current portfolio I am using
 
 This was my 1st attempt to make a portfolio 
 
-![PortfolioV1](./portfolioV1)
+![PortfolioV1](./portfolioV1.png)
 
 **Source Code:** [https://github.com/Llewellyn500/my-portfolio-V1](https://github.com/Llewellyn500/my-portfolio-V1)
 
