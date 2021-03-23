@@ -8,18 +8,20 @@ This is my current portfolio I am using
 
 ![Portfolio](./portfolio.png)
 
-**Source Code:** [https://github.com/Llewellyn500/portfolio](https://github.com/Llewellyn500/portfolio)
+**Source Code:** [Github](https://github.com/Llewellyn500/portfolio)
 
-**Link:** [https://llewellyn500.github.io/portfolio/](https://llewellyn500.github.io/portfolio/)
+**Link:** [Github Pages](https://llewellyn500.github.io/portfolio/)
 
 <br>
 
-## Portfolio V1
+## Legendar Dark VSCode Theme
 
-This was my 1st attempt to make a portfolio 
+This is my very own VSCode theme I made combining Andromeda and SynthWave
 
-![PortfolioV1](./portfolioV1.png)
+![Legendary Dark](./legendarydark.png)
 
-**Source Code:** [https://github.com/Llewellyn500/my-portfolio-V1](https://github.com/Llewellyn500/my-portfolio-V1)
+**Source Code:** [Github](https://github.com/Llewellyn500/Legendary-Dark)
+
+**Link:** [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LlewellynPaintsil.legendary-dark)
 
 <br>
