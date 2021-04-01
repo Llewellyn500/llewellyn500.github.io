@@ -6,7 +6,7 @@ Here you will find links to all the projects I have worked on so far. If you are
 
 This is my current portfolio I am using 
 
-![Portfolio](./portfolio.png)
+![Portfolio](./images/portfolio.png)
 
 **Year: 2021**
 
@@ -16,11 +16,11 @@ This is my current portfolio I am using
 
 <br>
 
-## Legendar Dark VSCode Theme:
+## Legendary Dark VSCode Theme:
 
 This is my very own VSCode theme I made combining Andromeda and SynthWave
 
-![Legendary Dark](./legendarydark.png)
+![Legendary Dark](./images/legendarydark.png)
 
 **Year: 2020**
 
@@ -34,7 +34,7 @@ This is my very own VSCode theme I made combining Andromeda and SynthWave
 
 This is a site for the club I am part of, the science and robotics club of the institution KNUST SHS
 
-![SARC Site](./SARC-SiteV2.jpg)
+![SARC Site](./images/SARC-SiteV2.jpg)
 
 **Year: 2021**
 
@@ -46,7 +46,7 @@ This is a site for the club I am part of, the science and robotics club of the i
 
 This is a site for the club I am part of, the science and robotics club of the institution KNUST SHS
 
-![Netflix Clone](./Netflix-clone.jpg)
+![Netflix Clone](./images/Netflix-clone.jpg)
 
 **Year: 2020**
 
@@ -58,9 +58,9 @@ This is a site for the club I am part of, the science and robotics club of the i
 
 ## Amazon Clone:
 
-This is a simple clone of the porpular shoping site amazon
+This is a simple clone of the popular shopping site amazon.
 
-![Amazon Clone](./Amazon-clone.jpg)
+![Amazon Clone](./images/Amazon-clone.jpg)
 
 **Year: 2020**
 
@@ -72,9 +72,9 @@ This is a simple clone of the porpular shoping site amazon
 
 ## Glassmorphic Calculator:
 
-This is a simple clone of the porpular shoping site amazon
+A Simple calculator using tilt.js
 
-![Calculator](./Glassmorphic-calculator.gif)
+![Calculator](./video/Glassmorphic-calculator.gif)
 
 **Year: 2021**
 
@@ -88,7 +88,7 @@ This is a simple clone of the porpular shoping site amazon
 
 This is a simple beautiful analog clock using the design concept glassmorphic
 
-![Glassmorphic Analog Clock](Glassmorphic-analog-clock.gif)
+![Glassmorphic Analog Clock](./video/Glassmorphic-analog-clock.gif)
 
 **Year: 2021**
 
@@ -102,7 +102,7 @@ This is a simple beautiful analog clock using the design concept glassmorphic
 
 This is a simple beautiful animated background made using the animation library anime.js
 
-![Background](anime.js-background.gif)
+![Background](./video/anime.js-background.gif)
 
 **Year: 2021**
 
